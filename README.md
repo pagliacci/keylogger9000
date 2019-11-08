@@ -2,5 +2,5 @@
 
 This repository contains different keyloggers for any life situations.
 
-1. Python keylogger
+1. Python ololo
    pyhook + win32
